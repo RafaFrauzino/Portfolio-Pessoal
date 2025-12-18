@@ -1,26 +1,26 @@
 <p align="center">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Idioma-PT--BR-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-2ea44f?style=for-the-badge">
   </a>
   <a href="./README-en.md">
-    <img src="https://img.shields.io/badge/Language-EN--US-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Language-EN--US-0969da?style=for-the-badge">
   </a>
 </p>
 
----
-
----
-
-<h1 align="center">Olá! 👋 Me chamo Rafael Frauzino</h1>
+<h1 align="center">Front-End Developer</h1>
 
 <p align="center">
-  🌐 Desenvolvedor Front-End em formação<br>
-  💻 HTML | CSS | JavaScript | <br>
-  🐧 Linux | Fundamentos de Redes | Cloud Computing (em estudo)
-  <br>📍 Brasil
+  HTML | CSS | JavaScript | React <br>
+  Linux • Networking • Cloud Computing (studying)
+</p>
+
+<p align="center">
+  📍 Brazil
 </p>
 
 ---
+
+
 
 ## 🚀 Sobre mim
 
@@ -94,6 +94,7 @@ Esses conhecimentos complementam minha formação em Front-End, proporcionando u
 <p align="center">
   <strong>Aberto a oportunidades como Desenvolvedor Front-End Júnior 🚀</strong>
 </p>
+
 
 
 
