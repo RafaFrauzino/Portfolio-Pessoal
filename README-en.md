@@ -1,3 +1,9 @@
+<p align="center">
+  🇺🇸 <strong>English</strong> | <a href="./README.md">🇧🇷 Português</a>
+</p>
+
+---
+
 <h1 align="center">Hi! 👋 I'm Rafael Frauzino</h1>
 
 <p align="center">
