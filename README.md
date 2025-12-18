@@ -1,3 +1,9 @@
+<p align="center">
+  🇧🇷 <strong>Português</strong> | <a href="./README-en.md">🇺🇸 English</a>
+</p>
+
+---
+
 <h1 align="center">Olá! 👋 Me chamo Rafael Frauzino</h1>
 
 <p align="center">
@@ -81,4 +87,5 @@ Esses conhecimentos complementam minha formação em Front-End, proporcionando u
 <p align="center">
   <strong>Aberto a oportunidades como Desenvolvedor Front-End Júnior 🚀</strong>
 </p>
+
 
