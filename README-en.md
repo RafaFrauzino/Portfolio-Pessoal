@@ -1,16 +1,24 @@
 <p align="center">
-  🇺🇸 <strong>English</strong> | <a href="./README.md">🇧🇷 Português</a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-2ea44f?style=for-the-badge">
+  </a>
+  <a href="./README-en.md">
+    <img src="https://img.shields.io/badge/Language-EN--US-0969da?style=for-the-badge">
+  </a>
+</p>
+
+<h1 align="center">Front-End Developer</h1>
+
+<p align="center">
+  HTML | CSS | JavaScript | React <br>
+  Linux • Networking • Cloud Computing (studying)
+</p>
+
+<p align="center">
+  📍 Brazil
 </p>
 
 ---
-
-<h1 align="center">Hi! 👋 I'm Rafael Frauzino</h1>
-
-<p align="center">
-  🌐 Front-End Developer in training<br>
-  💻 HTML | CSS | JavaScript | React (learning)<br>
-  📍 Brazil
-</p>
 
 ---
 
