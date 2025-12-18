@@ -7,11 +7,11 @@
   </a>
 </p>
 
-<h1 align="center">Front-End Developer</h1>
+<h1 align="center">Desenvolvedor Front-End</h1>
 
 <p align="center">
   HTML | CSS | JavaScript | React <br>
-  Linux • Networking • Cloud Computing (studying)
+  Linux • Redes • Cloud (estudando)
 </p>
 
 <p align="center">
@@ -94,6 +94,7 @@ Esses conhecimentos complementam minha formação em Front-End, proporcionando u
 <p align="center">
   <strong>Aberto a oportunidades como Desenvolvedor Front-End Júnior 🚀</strong>
 </p>
+
 
 
 
