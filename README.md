@@ -2,7 +2,7 @@
 
 <p align="center">
   🌐 Desenvolvedor Front-End em formação<br>
-  💻 HTML | CSS | JavaScript | React<br>
+  💻 HTML | CSS | JavaScript | <br>
   🐧 Linux | Fundamentos de Redes | Cloud Computing (em estudo)
   <br>📍 Brasil
 </p>
@@ -81,3 +81,4 @@ Esses conhecimentos complementam minha formação em Front-End, proporcionando u
 <p align="center">
   <strong>Aberto a oportunidades como Desenvolvedor Front-End Júnior 🚀</strong>
 </p>
+
