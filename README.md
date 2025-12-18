@@ -1,6 +1,13 @@
 <p align="center">
-  🇧🇷 <strong>Português</strong> | <a href="./README-en.md">🇺🇸 English</a>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Idioma-PT--BR-green?style=for-the-badge">
+  </a>
+  <a href="./README-en.md">
+    <img src="https://img.shields.io/badge/Language-EN--US-blue?style=for-the-badge">
+  </a>
 </p>
+
+---
 
 ---
 
@@ -87,5 +94,6 @@ Esses conhecimentos complementam minha formação em Front-End, proporcionando u
 <p align="center">
   <strong>Aberto a oportunidades como Desenvolvedor Front-End Júnior 🚀</strong>
 </p>
+
 
 
